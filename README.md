@@ -1,4 +1,4 @@
-<a href="https://jkdx97-personal.paleant9.chatgpt.site/"><img src="assets/header.svg" width="100%" alt="Sebastian Otero Alvarez. Soporte TI, programación y automatización." /></a>
+<a href="https://jkdx97-personal.paleant9.chatgpt.site/"><img src="https://raw.githubusercontent.com/JKDx97/JKDx97/main/assets/header.svg?v=2" width="100%" alt="Sebastian Otero Alvarez. Soporte TI, programación y automatización." /></a>
 
 <p align="center"><a href="https://jkdx97-personal.paleant9.chatgpt.site/">Conoce mi mundo ↗</a> &nbsp; · &nbsp; <a href="https://github.com/JKDx97/OfficeConfig">Explora OfficeConfig ↗</a></p>
 
